@@ -1,0 +1,15 @@
+Interceptors in NestJS are layers that allow you to modify or add functionality 
+  to requests and responses, such as:
+- Modifying data before it's sent or after it's processed.
+- Implementing common logic like logging or measuring time.
+
+In short: Interceptors help you add common functionality without repeating it throughout the application.
+
+
+المعترضات هي طبقة تتيح لك تعديل أو إضافة وظائف على الطلبات والاستجابات :
+تعديل البيانات قبل إرسالها أو بعد معالجتها. - 
+تنفيذ منطق مشترك مثل التسجيل أو قياس الوقت. -
+بالمختصر: المعترضات تساعد في إضافة وظائف عامة دون الحاجة لتكرارها في كل مكان في التطبيق.
+
+
+يعترش البيانت بعدها يقوم بالتعديل عليها 

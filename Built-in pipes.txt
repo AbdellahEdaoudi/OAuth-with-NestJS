@@ -1,0 +1,12 @@
+Built-in pipes#
+Nest comes with nine pipes available out-of-the-box:
+
+ValidationPipe
+ParseIntPipe
+ParseFloatPipe
+ParseBoolPipe
+ParseArrayPipe
+ParseUUIDPipe
+ParseEnumPipe
+DefaultValuePipe
+ParseFilePipe
